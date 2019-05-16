@@ -1,0 +1,34 @@
+ul.voordelen{
+  background-color: #eabfff;
+  padding: 20px 50px;
+  list-style: outside circle none;
+}
+
+ul.voordelen li{
+  color:  #47006b;
+  background: #d580ff;
+  padding: 5px;
+}
+
+ul.navigatie{
+  background-color: #9EE0E8;
+  padding: 20px 50px ;
+  }
+
+ul.navigatie li{
+  border: 4px solid #CCFDFF;
+}
+
+a{
+  color: darkorange;
+}
+
+ul.pagina1{
+  background-color: #87E5FF;
+  padding: 10px 20px ;
+  border: 2px solid #FF9994;
+}
+
+ul.pagina1 li{
+  border: 2px solid white;
+}

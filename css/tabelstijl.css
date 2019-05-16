@@ -1,0 +1,39 @@
+table.prijslijst{
+  background-color: #771617;
+  color:  #ffcc66;
+  border-collapse: collapse;
+}
+
+table.prijslijst th{
+  color:black;
+  background-color: white;
+}
+
+table.prijslijst td{
+  border:2px solid silver;
+}
+
+table.leeftijd{
+  background-color: #9EE0E8;
+  color: black
+}
+
+table.leeftijd th{
+  color:black;
+  background-color: #E8D39E;
+}
+
+table.leeftijd td{
+  border: 2px solid #CCADFF;
+}
+
+table.nummers{
+  color: #4B3DFF;
+  background-color: #E8D09E;
+  width: 200px;
+  height: 150px;
+}
+
+table.nummers td{
+  border:3px solid #FF5342;
+}
